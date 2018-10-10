@@ -5,6 +5,12 @@
 
 These samples demonstrate how to add authentication to an Angular application with Auth0. Each folder contains a distinct application so that various Auth0 features can be viewed in isolation. You can read about these examples in our [Angular Quickstart](https://auth0.com/docs/quickstart/spa/angular2).
 
+# Auth0 + Angular CLI Example
+
+Using [Auth0](https://auth0.com) with an [angular-cli](https://github.com/angular/angular-cli)-generated project.
+
+See gist https://gist.github.com/keathmilligan/92004bfb15d63f6989eb3ca738bd951f for additional notes.
+
 ## Embedded Integration Samples
 
 These samples use Auth0's [universal login page](https://auth0.com/docs/hosted-pages/login) which offers the fastest, most secure, and most feature-rich way to add authentication to your app.
